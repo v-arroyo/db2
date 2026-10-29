@@ -1,0 +1,21 @@
+       Program name = db2idbm
+Instance home dir = /database/config/db2inst1,   Sysadm group = db2iadm1
+Instance type = 1,  Auth type = server
+
+DB20000I  The UPDATE DATABASE MANAGER CONFIGURATION command completed 
+successfully.
+DB20000I  The UPDATE DATABASE MANAGER CONFIGURATION command completed 
+successfully.
+DB20000I  The UPDATE DATABASE MANAGER CONFIGURATION command completed 
+successfully.
+DB20000I  The UPDATE DATABASE MANAGER CONFIGURATION command completed 
+successfully.
+DB20000I  The UPDATE DATABASE MANAGER CONFIGURATION command completed 
+successfully.
+DB20000I  The UPDATE DATABASE MANAGER CONFIGURATION command completed 
+successfully.
+DB20000I  The UPDATE DATABASE MANAGER CONFIGURATION command completed 
+successfully.
+DB20000I  The UPDATE DATABASE MANAGER CONFIGURATION command completed 
+successfully.
+DB20000I  The TERMINATE command completed successfully.

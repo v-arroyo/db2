@@ -1,0 +1,3 @@
+Updating DB CFG logprimary - Current value (13); new value (16)
+Updating DB CFG logsecond - Current value (12); new value (22)
+Updating DB CFG logbufsz - Current value (2150); new value (2151)
